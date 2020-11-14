@@ -7,5 +7,4 @@ All projects of AI Sessional Course, Level 3 - Term 2
     - Used Minimax Algorithm
     - Applied alpha beta pruning
     - Applied Iterative Deepening and random move selection strategy
-    - Applied Multi-threading to improve performance for Iterative Deepening
-  
+    - Applied Multi-Threading to improve performance for Iterative Deepening
